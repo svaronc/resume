@@ -2,7 +2,7 @@
 
 ## Sebastian Varon
 
-**Web Development Student**
+**Senior Accountant and Web Development Student**
 
 * [✉️ sebastianvaron96@gmail.com](mailto:sebastianvaron96@gmail.com) |  +1289-697-2932 | St Catharines, ON
 
@@ -33,11 +33,13 @@ Results-oriented Senior Accountant professional with a passion for technology an
 
 **Education**
 
-* **[University Name]** | *[City, State]*
-    * Bachelor of Science in Accounting | *[Expected Graduation Date]*
+* **Pontificia Universidad Javeriana** | *Cali-Colombia*
+    * Bachelor of Science in Accounting | *[2015-2020]*
+* **UdeCataluna** | *Cali-Colmbia*
+    * Full Stack Web Development Professional Certificate
+ 
 
 **Additional Information**
 
-* [LinkedIn Profile URL](https://www.linkedin.com/in/[your-linkedin-profile-link])
-* [GitHub Profile URL](https://github.com/[your-github-username])
-* [Website Portfolio URL](https://[your-website-portfolio-link])
+* [LinkedIn Profile URL](https://www.linkedin.com/in/sebastian-varon-6bb14b2aa/)
+* [GitHub Profile URL](https://github.com/svaronc)
